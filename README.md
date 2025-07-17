@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/video-creator-ffmpeg-mcp-badge.png)](https://mseep.ai/app/video-creator-ffmpeg-mcp)
+
 # ffmpeg-mcp
 
 A stdio MCP server to interact with ffmpeg for common media operations.
