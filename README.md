@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/egoist-ffmpeg-mcp-badge.png)](https://mseep.ai/app/egoist-ffmpeg-mcp)
+
 # ffmpeg-mcp
 
 A stdio MCP server to interact with ffmpeg for common media operations.
